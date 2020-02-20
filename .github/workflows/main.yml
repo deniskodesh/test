@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: Viaceslav-Kodesh/Test@v1
-    - name: test
+     - name: test
+       uses: Viaceslav-Kodesh/Test@v1
